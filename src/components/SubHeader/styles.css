@@ -1,0 +1,10 @@
+.subHeader {
+  /* margin-top: 2rem; */
+}
+
+.MuiTab-wrapper {
+  z-index: 1;
+  /* width: 400px; */
+  margin-top: 10px;
+  background: transparent;
+}
